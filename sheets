@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+input{
+    width: 80px;
+    height:65px;
+    font-size:45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(255, 196, 196);
+}
+.btn:hover{
+    background-color:rgb(29, 226, 39);
+    cursor: pointer;
+}
