@@ -1,1 +1,1 @@
-This a basic model of calculator 
+This a basic model of calculator.
